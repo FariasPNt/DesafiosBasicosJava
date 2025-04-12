@@ -49,7 +49,6 @@ Cada exercício é resolvido de forma individual e pode ser usado como base para
    git clone https://github.com/FariasPNt/DesafiosBasicosJava.git
 
 ---
-✨ Autor
 
-Feito com dedicação por FariasPNt 💙
+Feito com dedicação
 Se te ajudou de alguma forma, deixa uma ⭐ no repositório!
