@@ -50,5 +50,6 @@ Cada exercício é resolvido de forma individual e pode ser usado como base para
 
 ---
 
-Feito com dedicação
+Feito com dedicação.
+
 Se te ajudou de alguma forma, deixa uma ⭐ no repositório!
